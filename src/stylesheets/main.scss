@@ -1,0 +1,59 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  -webkit-text-size-adjust: none;
+  -ms-text-size-adjust: none;
+  background: #ffffff;
+  /*min-height: 1000px;*/
+  color: #000000;
+  padding: 0;
+  margin: 0;
+  -webkit-text-size-adjust: none;
+  -ms-text-size-adjust: 100%;
+}
+
+table {
+  border-collapse:collapse; 
+  mso-table-lspace: 0pt;
+  mso-table-rspace: 0pt;
+  font-family: Arial, Verdana, Helvetica;
+  color: #8c8c8c;
+}
+
+table td {
+  border-collapse:collapse; 
+}
+
+a, a:link {
+  color: #595959;
+  text-decoration: underline;
+}
+
+span.yshortcuts {
+  color: #000000;
+  background-color: none;
+  border: none;
+}
+
+span.yshortcuts:hover,
+span.yshortcuts:active,
+span.yshortcuts:focus {
+  color: #000000;
+  background-color: none;
+  border: none;
+}
+
+a[href^=tel] {
+  color: #000000;
+  text-decoration: none;
+}
+
+img {
+  border-style: none;
+  display: block;
+  height: inherit;
+}
+
+.lh-fix {
+  line-height: 0;
+}
